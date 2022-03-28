@@ -8,4 +8,4 @@
 ![TENSORFLOW](https://img.shields.io/badge/-TENSORFLOW-000000?style=for-the-badge&logo=TENSORFLOW)
 
 ### My Kaggle
-[![KAGGLE](https://img.shields.io/badge/-Kaggle-0000ff?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/artgrig)
+[![KAGGLE](https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/artgrig)
