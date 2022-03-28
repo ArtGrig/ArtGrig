@@ -1,6 +1,6 @@
 ![Header](https://github.com/ArtGrig/ArtGrig/blob/main/assets/1614508672_neon-neon-welcome.jpg)
 
-## I'm a physics graduate student and begginer ML-engineer
+## I'm a physics PhD student and begginer ML-engineer
 
 ### Langueges and Tools
 ![PYTHON](https://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=python)
