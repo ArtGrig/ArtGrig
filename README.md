@@ -1,6 +1,6 @@
-[![Header](https://github.com/ArtGrig/ArtGrig/blob/main/assets/python_AIM.jpg)]
+![Header](https://github.com/ArtGrig/ArtGrig/blob/main/assets/python_AIM.jpg)
 
-About me
+## I'm PhD student physicist and begginer ML-engineer
 
 Langueges and Tools
 
