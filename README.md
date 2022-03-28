@@ -1,4 +1,4 @@
-![Header](https://github.com/ArtGrig/ArtGrig/blob/main/assets/python_AIM.jpg)
+![Header](https://github.com/ArtGrig/ArtGrig/blob/main/assets/1614508672_neon-neon-welcome.jpg)
 
 ## I'm a physics graduate student and begginer ML-engineer
 
